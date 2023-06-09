@@ -1,0 +1,2 @@
+# CalculatorPy
+First GIT project
